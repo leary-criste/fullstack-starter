@@ -253,4 +253,4 @@ export const tokens = {
 } as const;
 
 export type ColorTokens = typeof tokens.color.light;
-export type ColorKey = keyof ColorTokens;
+export type ColorKey = keyof ColorTokens;
