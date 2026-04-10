@@ -35,4 +35,4 @@ gh pr create --title "feat: Add user profile" --body "Implements user profile pa
 - **Small & Focused**: Keep PRs limited to a single logical change.
 - **Linked Issues**: Always link to the task/issue (e.g., `Closes #123`).
 - **Self-Review**: Review your own diff before creating the PR.
-- **Verification**: Explicitly state how you verified the change (screenshots, test output).
+- **Verification**: Explicitly state how you verified the change (screenshots, test output).
