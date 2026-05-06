@@ -178,4 +178,4 @@ How other workflows check tool restrictions:
 3. **If not present or expired:** Use `mcp.json` settings
 
 **Note:** If IDE/CLI doesn't directly support `available_tools`,
-tool usage must be self-restricted at the workflow level.
+tool usage must be self-restricted at the workflow level.

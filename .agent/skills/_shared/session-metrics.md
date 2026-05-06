@@ -143,4 +143,4 @@ Total CD: 95 ❌ → RCA REQUIRED
 - **Active session**: `.serena/memories/session-metrics.md`
 - **Completed sessions**: Archived to `.serena/memories/archive/metrics-{date}.md`
 - **Retention**: 30 days (configurable)
-- **Aggregation**: `oh-my-ag stats` command summarizes trends
+- **Aggregation**: `oh-my-ag stats` command summarizes trends
