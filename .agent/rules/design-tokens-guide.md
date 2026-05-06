@@ -277,4 +277,4 @@ Tests cover:
 - OKLCH to P3 conversion accuracy
 - CSS generation correctness
 - Flutter theme generation
-- Edge cases and boundary conditions
+- Edge cases and boundary conditions
