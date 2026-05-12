@@ -209,4 +209,4 @@ Unable to complete JWT auth API. Database connection issues prevented testing.
 ## Notes
 - Needs database running to complete testing
 - Rate limiting code is written but untested
-```
+```
