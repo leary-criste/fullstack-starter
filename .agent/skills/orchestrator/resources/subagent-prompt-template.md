@@ -178,4 +178,4 @@ If you discover a necessary change outside your domain:
 | `{ACCEPTANCE_CRITERIA}` | task-board.md | Bulleted list |
 | `{WORKSPACE_PATH}` | Orchestrator config | "/path/to/project" |
 | `{MAX_TURNS}` | Orchestrator config | "20" |
-| `{MAX_TURNS_WARNING}` | MAX_TURNS - 3 | "17" |
+| `{MAX_TURNS_WARNING}` | MAX_TURNS - 3 | "17" |
