@@ -51,4 +51,4 @@ output "id" {
 ## Relationship with terraform-module-library
 
 - Use **terraform-module-creator** (this skill) for the initial file creation and setup.
-- Use **terraform-module-library** for design patterns, best practices, and internal code logic.
+- Use **terraform-module-library** for design patterns, best practices, and internal code logic.
