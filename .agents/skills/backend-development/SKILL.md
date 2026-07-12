@@ -41,4 +41,4 @@ This skill provides expert guidance for building robust, scalable, and secure ba
 - Optimizing slow database queries.
 - Implementing complex business logic.
 - Reviewing backend code for security and performance.
-- Setting up authentication and authorization flows.
+- Setting up authentication and authorization flows.
