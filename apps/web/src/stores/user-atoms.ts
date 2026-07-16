@@ -10,4 +10,4 @@ export const userAtom = atom<User | null>(null);
 export const isLoggedInAtom = atom((get) => get(userAtom) !== null);
 
 userAtom.debugLabel = "user";
-isLoggedInAtom.debugLabel = "isLoggedIn";
+isLoggedInAtom.debugLabel = "isLoggedIn";
