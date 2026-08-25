@@ -101,4 +101,4 @@ export function p3ToHex(p3: P3Color): string {
     return `${hex}${toHex(p3.a)}`;
   }
   return hex;
-}
+}
