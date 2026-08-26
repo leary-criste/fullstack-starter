@@ -198,4 +198,4 @@ resource "oci_container_instances_container_instance" "api" {
 data "oci_secrets_secretbundle" "db_password" {
   secret_id = oci_vault_secret.db_password.id
 }
-```
+```

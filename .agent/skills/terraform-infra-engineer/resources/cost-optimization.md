@@ -570,4 +570,4 @@ resource "azurerm_consumption_budget_resource_group" "monthly" {
 5. **Storage lifecycle policies** - Automate transitions to cheaper tiers
 6. **Cost allocation tags** - Track and optimize spending
 7. **Right-sizing** - Use the smallest instance that meets performance needs
-8. **Auto-shutdown** - Stop dev/test resources when not in use
+8. **Auto-shutdown** - Stop dev/test resources when not in use
