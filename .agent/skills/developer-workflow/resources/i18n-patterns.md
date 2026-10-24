@@ -60,4 +60,4 @@ run = "flutter gen-l10n"
 description = "Run Flutter on device"
 depends = ["gen:l10n"]
 run = "flutter run"
-```
+```

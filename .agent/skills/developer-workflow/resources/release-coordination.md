@@ -241,4 +241,4 @@ bunx gh pr list --label "autorelease: pending" 2>/dev/null || echo "  No release
 - ✅ Auto-generated CHANGELOG.md
 - ✅ GitHub releases with notes
 - ✅ No manual version bumping
-- ✅ Integrated with GitHub PR workflow
+- ✅ Integrated with GitHub PR workflow
